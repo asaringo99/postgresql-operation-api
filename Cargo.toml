@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "server",
+    "services/postgres_service",
+    "common"
+]
