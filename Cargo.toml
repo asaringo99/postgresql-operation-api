@@ -2,5 +2,5 @@
 members = [
     "server",
     "services/postgres_service",
-    "common"
+    "domain"
 ]
